@@ -13,13 +13,13 @@ const Coin = () => {
     const url = `https://api.coingecko.com/api/v3/coins/${params.coinId}`
 
 
-    useEffect((url) => {
+    useEffect(() => {
         axios.get(url).then((res) => {
             setCoin(res.data)
         }).catch((error) => {
             console.log(error)
         })
-    }, [url])
+    }, [])
 
     return (
         <div>

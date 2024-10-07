@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cryptoweb/static/css/main.883ad025.css",
+    "main.js": "/cryptoweb/static/js/main.19362178.js",
+    "index.html": "/cryptoweb/index.html",
+    "main.883ad025.css.map": "/cryptoweb/static/css/main.883ad025.css.map",
+    "main.19362178.js.map": "/cryptoweb/static/js/main.19362178.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.883ad025.css",
+    "static/js/main.19362178.js"
+  ]
+}
